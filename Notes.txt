@@ -1,0 +1,9 @@
+
+	Install below into Jupyter notebook 
+
+pip install scikit-learn
+
+
+	install this library via Anaconda command prompt
+
+conda install -c conda-forge scikit-surprise
